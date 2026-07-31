@@ -3,11 +3,12 @@
   <groupId>io.orch8</groupId>
   <artifactId>orch8-mobile</artifactId>
   <versioning>
-    <latest>0.7.0</latest>
-    <release>0.7.0</release>
+    <latest>0.7.1</latest>
+    <release>0.7.1</release>
     <versions>
       <version>0.7.0</version>
+      <version>0.7.1</version>
     </versions>
-    <lastUpdated>20260730000000</lastUpdated>
+    <lastUpdated>20260731020300</lastUpdated>
   </versioning>
 </metadata>
